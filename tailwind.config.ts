@@ -12,7 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        vazir: ['Vazirmatn', 'sans-serif'],
+      },
     },
+
   },
   plugins: [],
 } satisfies Config;
